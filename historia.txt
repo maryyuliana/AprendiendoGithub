@@ -7,3 +7,7 @@ Vivo en en jamundí
 los codigos 
 code = abre la consola
 git show "nombre del archivo" muestra todos los cambios
+
+git add . = adiciona todos los cambios
+git diff  se pega los numeros de los comit y lo que hace
+es mostrar la diferencia entre las versiones
