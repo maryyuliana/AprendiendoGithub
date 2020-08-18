@@ -1,13 +1,7 @@
-Me llamo Mary Yuliana
+Esta es la historia de Freddy Vega
 
-estoy aprendiendo Git_GitHub
-Tengo 34 años 
-Vivo en en jamundí
+Freddy Vega tiene 32 años y nació en Colombia
 
-los codigos 
-code = abre la consola
-git show "nombre del archivo" muestra todos los cambios
+Anita Platzi tiene 41 años y nació en Internet
 
-git add . = adiciona todos los cambios
-git diff  se pega los numeros de los comit y lo que hace
-es mostrar la diferencia entre las versiones
+Mañana nos enfocaremos en su vida laboral
